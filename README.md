@@ -7,6 +7,10 @@
 
 **Spearmintastic** uses a "14500" (AA) size protected Li-ion battery, minimizing fears about sketchy pouch cells from Amazon or AliExpress. These can be found via online retailers as "flashlight batteries".
 
+## Errata Notes:
+
+- Solar polarity silkscreen is reversed on v1.0 board
+
 ## Bill Of Materials
 
 | Part | Spec | Qty | Link |
