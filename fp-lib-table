@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xiao")(type "KiCad")(uri "${KIPRJMOD}/symbols/xiao")(options "")(descr ""))
+  (lib (name "CN3163")(type "KiCad")(uri "${KIPRJMOD}/symbols/CN3163.pretty")(options "")(descr ""))
+  (lib (name "modified-xiao")(type "KiCad")(uri "${KIPRJMOD}/symbols/modified-xiao.pretty")(options "")(descr ""))
+  (lib (name "m_pwd")(type "KiCad")(uri "${KIPRJMOD}/symbols/m_pwd")(options "")(descr ""))
+  (lib (name "antenna")(type "KiCad")(uri "${KIPRJMOD}/symbols/antenna.pretty")(options "")(descr ""))
+  (lib (name "keystone_14500_smd")(type "KiCad")(uri "${KIPRJMOD}/symbols/keystone_14500_smd.pretty")(options "")(descr ""))
+)
