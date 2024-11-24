@@ -10,6 +10,7 @@
 ## Errata Notes:
 
 - Solar polarity silkscreen is reversed on v1.0 board
+- Protected 14500 lithium cells tend to be a couple millimeters longer than a "normal" AA battery. You may need to do some modifications to the Keystone holder to make the battery fit well. If needed, recommended modifications are to flatten the contact springs with a pair of pliers, as well as cutting some of the plastic "backstop" out from behind the positive contact to allow it more travel.
 
 ## Bill Of Materials
 
